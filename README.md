@@ -34,4 +34,4 @@ Notes and Assignments of the graduate course "Microeconometrics" at Tilburg Univ
 - [**Assignment 1**](https://github.com/dannyredel/Microeconometrics/tree/main/Assignment%201): Randomization (RCTs), Omitted Variable Problem, Instrumental Variables (Grade: 95/100).
 - [**Assignment 2**](https://github.com/dannyredel/Microeconometrics/tree/main/Assignment%202): Survival Analysis, Generalized Method of Moments (Grade: 91/100).
 - [**Assignment 3**](https://github.com/dannyredel/Microeconometrics/tree/main/Assignment%203): Quantile Regression (Grade: 77/80).
-- [**Assignment 4**](https://github.com/dannyredel/Microeconometrics/tree/main/Assignment%204): Binary Choice Models, Nonparametric Kernel Density, Nonparametric Regression, Semiparametric Binary Choice Regression (Klein & Spady) (Grade: 116/120).
+- [**Assignment 4**](https://github.com/dannyredel/Microeconometrics/tree/main/Assignment%204): Binary-Choice Models, Nonparametric Kernel Density, Nonparametric Regression, Semiparametric Binary-Choice Regression (Klein & Spady) (Grade: 116/120).
